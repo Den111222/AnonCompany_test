@@ -1,0 +1,127 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info
+*.lib
+*.so
+*.dylib
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+egg-info/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Typically these files are written by a Python application
+#  during packaging or running of the application.
+#  They are not relevant to the source code.
+#  Exclude these files as they might not be relevant to the source control.
+#  Uncomment if you are using PyInstaller for packaging:
+#  .pyinstaller/
+#  .tox/
+#  .nox/
+#  .coverage
+#  .hypothesis/
+#  .tox/
+#  .nox/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.out
+
+# Sphinx documentation
+docs/_build/
+build/
+temp/
+
+# Pytest
+.cache/
+*.pytest_cache/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Python virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# macOS Finder
+.DS_Store
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+
+# Logs
+*.log
+*.out
+*.pid
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# other configurations
+*.iml
+*.suo
+*.ncb
+*.sw?
+*.swo
+*.sublime-project
+*.sublime-workspace
+*.project
+*.classpath
+*.settings/
+*.metadata/
+*.gradle/
+*.eclipse/

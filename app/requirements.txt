@@ -1,0 +1,9 @@
+aiohttp	                    ==3.9.5
+
+wemake-python-styleguide
+nitpick                     ==0.35.0
+
+pytest
+pytest-asyncio
+coverage
+aioresponses
